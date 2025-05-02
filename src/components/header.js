@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import profileImg from "../assets/profile.jpg"; // Place this image in src/assets/
+import profileImg from "../assets/profile.jpg"; 
 
 const Header = () => (
   <motion.header
